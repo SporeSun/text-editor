@@ -15,9 +15,9 @@ This Text Editor is a progressive web application (PWA) that allows users to cre
 ## Installation
 
 1. Clone the repository:
-    git clone [repository URL]
+    git clone https://github.com/SporeSun/text-editor.git
 2. Navigate to the project directory:
-    cd [local repository]
+    cd text-editor
 3. Install dependencies:
     npm install
 4. Start the application:
@@ -27,6 +27,8 @@ This Text Editor is a progressive web application (PWA) that allows users to cre
 ## Usage
 
 After starting the application, navigate to `http://localhost:3000` in your web browser. The text editor interface will be available for creating and editing documents. All changes are auto-saved to IndexedDB, ensuring that your data is preserved even if you go offline or close the browser.
+
+Or browse on `https://sporesun-editor-79620e31ca64.herokuapp.com/`
 
 ## Technologies Used
 
@@ -50,4 +52,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or comments, please feel free to reach out to the project maintainer.
 
-[Your Contact Information]
+https://github.com/SporeSun
+sporesun@protonmail.com
